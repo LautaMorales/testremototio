@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 asdasdasd
+=======
+sapongo
+>>>>>>> 30275b6b2e9ccd25220a25470ee7d614d670cdad
